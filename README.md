@@ -9,4 +9,4 @@ Uno script che ti permette di spammare messaggi su [ChatVisionZ](chatvisionz.com
 
 # Non hai voglia di farlo manualmente ogni volta?
 
-- puoi anche utilizzare lo script con [tampermonkey](tampermonkey.net) e scaricarlo da [GreasyFork](https://greasyfork.org/it/scripts/498908-chatvisionz-spam-bot)
+- puoi anche utilizzare lo script con [tampermonkey](https://www.tampermonkey.net/) e scaricarlo da [GreasyFork](https://greasyfork.org/it/scripts/498908-chatvisionz-spam-bot)
